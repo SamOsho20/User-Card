@@ -1,0 +1,53 @@
+.container {
+    width:1000px;
+    height:600px;
+    margin:400px 100px 100px 100px;
+    border-style:solid;
+    border-color:black;
+    background-color:rgb(97, 97, 97);
+
+}
+.header{
+    width:1000px;
+    height:250px;
+    background-color:teal;
+}
+.top-nav{
+    height:100px;
+    width:100px;
+
+}
+.biopic{
+    vertical-align:center;
+    align-items:center;
+    height:180px;
+    width:180px;
+    background-color:rgb(97, 97, 97);
+    border-radius:140px;
+    margin-left:40px;
+    margin-top:60px;
+
+}
+.profilebtn{
+    background-color:white;
+    border-radius:100px;
+    height:140px;
+    width:140px;
+}
+.card-body{
+    height:200px;
+    margin-left:40px;
+    margin-top:120px;
+
+}
+.location-nav {
+    height:20px;
+    color:white;
+}
+.line2{
+    margin-top:-15px;
+}
+.settings-icon{
+    height:20px;
+    color:white;
+}
